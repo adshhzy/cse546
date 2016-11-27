@@ -1,0 +1,12 @@
+Hi:
+This is my final project for computational geometry class. 
+I wrote all the codes. 
+To play with this applet, just open the html with browzer.
+(Chrome might not work)
+Then you can follow the file "Project Description & Applet Instruction"
+If you have any questions.
+Feel free to ask me.
+jzhao32@wustl.edu
+Thanks
+Jinxuan(Steven) Zhao
+
